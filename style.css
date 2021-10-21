@@ -1,0 +1,42 @@
+h1{
+    color:red
+
+}
+a{
+    color: white;
+}
+
+/* * {
+    border:solid
+} */
+
+.header{
+    background-color: #800000;
+    display:flex;
+    justify-content: space-between;
+}
+.menu{
+    background-color: #800080;
+    display:flex;
+    justify-content: space-evenly;
+    padding-right: 30px;
+}
+
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+ .footer{
+     display:flex;
+     justify-content:flex-end ;
+     
+ }
+
+ p,h2{
+     text-align: center ;
+ }
+
+ body{
+     background-color: #808080;
+ }
